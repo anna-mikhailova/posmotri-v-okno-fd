@@ -47,6 +47,7 @@ ol {
   justify-content: center;
 }
 
+/* main video section */
 .result {
   grid-area: main;
   align-self: flex-end;
@@ -188,6 +189,7 @@ ol {
   width: 194px;
 }
 
+/* sidebar section */
 .title {
   padding: 3px 133px 20px 3px;
   font-family: Oswald;
